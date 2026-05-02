@@ -31,7 +31,7 @@
   <img src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_html.png" title="HTML" alt="HTML" width="40" height="40"/>&nbsp
   <img src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_css3.png" title="CSS" alt="CSS" width="40" height="40"/>&nbsp
   <img src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_androidstudio.png" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp
-  <img src="v" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
+  <img src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_charles.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
 </div>
 
 ## Логи и мониторинги
