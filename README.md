@@ -23,6 +23,8 @@
   <td> <img width="48" src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_apachekafka.png" /> </td>
   <td> <img width="48" src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_rest%20(1).png" /> </td>
   <td> <img width="48" src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_swagger.png" /> </td>
+  <td> <img width="48" src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_docker.png" /> </td>
+    
   </tr>
   <tr align="center">
     <td>Postman</td>
