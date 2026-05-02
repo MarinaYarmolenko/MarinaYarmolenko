@@ -16,13 +16,23 @@
 <br>
 
 ## Тестирование API и интеграций
-<div>
+<table class="table" border="0" width="100%">
+  <tr align="center">
   <img src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_postman.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp
   <img src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_soap.png" title="SOAP" alt="SOAP" width="40" height="40"/>&nbsp
   <img src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_apachekafka.png" title="Kafka" alt="Kafka" width="40" height="40"/>&nbsp
   <img src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_rest%20(1).png" title="REST" alt="REST" width="40" height="40"/>&nbsp
   <img src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_swagger.png" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp
-</div>
+  </tr>
+  <tr align="center">
+    <td>Postman</td>
+    <td>Rest</td>
+    <td>Soap</td>
+    <td>Kafka</td>
+    <td>Swagger</td>
+    <td>Docker</td>
+  </tr>
+</table>
 
 ## Тестирование Web и Мобильных приложений
 <div>
