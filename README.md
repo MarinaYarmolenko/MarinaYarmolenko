@@ -18,7 +18,7 @@
 ## Тестирование API и интеграций
 <table class="table" border="0" width="100%">
   <tr align="center">
-  <img src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_postman.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp
+   <td><img width="48" src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_postman.png" /> </td>
   <img src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_soap.png" title="SOAP" alt="SOAP" width="40" height="40"/>&nbsp
   <img src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_apachekafka.png" title="Kafka" alt="Kafka" width="40" height="40"/>&nbsp
   <img src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_rest%20(1).png" title="REST" alt="REST" width="40" height="40"/>&nbsp
