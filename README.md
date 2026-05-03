@@ -91,10 +91,10 @@
 ## Работа с базами данных
 <table class="table" border="0" width="100%">
   <tr align="center">
-    <td> <img width="48"g src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" /> </td>
-    <td> <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" /> </td>
-    <td> <img width="48" src="https://cdn.worldvectorlogo.com/logos/metabase.svg" /> </td>
-    <td> <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/512px-DBeaver_logo.svg.png"/> </td>
+    <td> <img width="48"g src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_postgresql.png" /> </td>
+    <td> <img width="48" src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_mongodb.png" /> </td>
+    <td> <img width="48" src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_metabase.png" /> </td>
+    <td> <img width="48" src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_dbeaver.png"/> </td>
  </tr>
   <tr align="center">
     <td>PostgreSQL</td>
@@ -107,19 +107,20 @@
 ## Автотесты
 <table class="table" border="0" width="100%">
   <tr align="center">
-   <td> <img width="48" src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" /> </td>
-   <td> <img width="48" src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" /> </td>
-   <td> <img width="48" src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" /> </td>
-   <td> <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GithubActions-Dark.svg" /> </td>
-   <td> <img width="48" src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" /> </td>
-   <td> <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" /> </td>
-   <td> <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sublime-Dark.svg" /> </td>
+   <td> <img width="48" src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_cypress.png" /> </td>
+   <td> <img width="48" src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_selenium.png" /> </td>
+   <td> <img width="48" src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_pytest.png" /> </td>
+   <td> <img width="48" src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_gitlab.png" /> </td>
+   <td> <img width="48" src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_github.png" /> </td>
+   <td> <img width="48" src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_python.png" /> </td>
  </tr>
   <tr align="center">
-    <td>PostgreSQL</td>
-    <td>MongoDB</td>
-    <td>Metabase</td>
-    <td>DBeaver</td>
+    <td>Cypress</td>
+    <td>Selenium</td>
+    <td>Pytest</td>
+    <td>Gitlab</td>
+    <td>Githab</td>
+    <td>Pyton</td>
   </tr>
 </table>
 <!-- Выбор картинок ↑↑: https://github.com/tandpfun/skill-icons --> 
