@@ -83,7 +83,7 @@
  </tr>
   <tr align="center">
     <td>YandexTracker</td>
-    <td>TestITy</td>
+    <td>TestIT</td>
     <td>Notion</td>
   </tr>
 </table>
