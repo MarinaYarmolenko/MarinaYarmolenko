@@ -18,7 +18,7 @@
 ## Тестирование API и интеграций
 <table class="table" border="0" width="100%">
   <tr align="center">
-   <td><img width="48" src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_postman.png" /> </td>
+  <td> <img width="48" src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_postman.png" /> </td>
   <td> <img width="48" src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_soap.png" /> </td>
   <td> <img width="48" src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_apachekafka.png" /> </td>
   <td> <img width="48" src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_rest%20(1).png" /> </td>
@@ -37,52 +37,91 @@
 </table>
 
 ## Тестирование Web и Мобильных приложений
-<div>
-  <img src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_figma.png" title="Figma" alt="Figma" width="40" height="40"/>&nbsp
-  <img src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_http.png" title="HTTP" alt="HTTP" width="40" height="40"/>&nbsp
-  <img src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_html.png" title="HTML" alt="HTML" width="40" height="40"/>&nbsp
-  <img src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_css3.png" title="CSS" alt="CSS" width="40" height="40"/>&nbsp
-  <img src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_androidstudio.png" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp
-  <img src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_charles.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>&nbsp
-</div>
+<table class="table" border="0" width="100%">
+  <tr align="center">
+   <td><img width="48" src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_figma.png" /> </td>
+   <td><img width="48" src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_http.png" /> </td>
+   <td><img width="48" src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_html.png" /> </td>
+  <td><img width="48" src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_css3.png" /> </td>
+   <td><img width="48" src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_androidstudio.png" /> </td>
+   <td><img width="48" src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_charles.png" /> </td>
+  </tr>
+  <tr align="center">
+    <td>Figma</td>
+    <td>HTTP</td>
+    <td>HTML</td>
+    <td>CSS</td>
+    <td>AndroidStudio</td>
+    <td>Charles</td>
+  </tr>
+</table>
 
 ## Логи и мониторинги
-<div>
-  <img src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_kibana.png" title="Kibana" alt="Kibana" width="40" height="40"/>&nbsp
-  <img src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_sentry.png" title="Sentry" alt="Sentry" width="40" height="40"/>&nbsp
-  <img src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_Grafana.png" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp
-  <img src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_jaegertracing.png" title="Jaeger" alt="Jaeger" width="40" height="40"/>&nbsp
-  <img src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_bash.png" title="Bash" alt="Bash" width="40" height="40"/>&nbsp
-</div>
+<table class="table" border="0" width="100%">
+  <tr align="center">
+   <td><img width="48" src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_kibana.png" /> </td>
+   <td><img width="48" src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_sentry.png" /> </td>
+   <td><img width="48" src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_Grafana.png" /> </td>
+   <td><img width="48" src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_jaegertracing.png" /> </td>
+   <td><img width="48" src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_bash.png" /> </td>
+ </tr>
+  <tr align="center">
+    <td>Kibana</td>
+    <td>Sentry</td>
+    <td>Grafana</td>
+    <td>Jaeger</td>
+    <td>Bash</td>
+  </tr>
+</table>
 
 ## Тестовая документация 
-  <div>
-    <img src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_yandex_tracker.png" title="Yandex Tracker" alt="Yandex Tracker" width="40" height="40"/>&nbsp
-    <img src="https://logosandtypes.com/wp-content/uploads/2023/03/clickup.svg" title="ClickUp" alt="ClickUp" width="40" height="40"/>&nbsp
-    <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="Test It" alt="Test It" width="40" height="40"/>&nbsp
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Notion-Dark.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp
-  </div>
+ <table class="table" border="0" width="100%">
+  <tr align="center">
+     <td> <img width="48" src="https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/logo_yandex_tracker.png" /> </td>
+     <td> <img width="48" src="https://docs.testit.software/images/testit_logo_icon_blue.png" /> </td>
+     <td> <img width="48"g src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Notion-Dark.svg" /> </td>
+ </tr>
+  <tr align="center">
+    <td>YandexTracker</td>
+    <td>TestITy</td>
+    <td>Notion</td>
+  </tr>
+</table>
 
 ## Работа с базами данных
-<div>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" title="Mongo DB" alt="Mongo DB" width="40" height="40"/>&nbsp
-  <img src="https://cdn.worldvectorlogo.com/logos/metabase.svg" title="Metabase" alt="Metabase" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/512px-DBeaver_logo.svg.png" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp
-</div>
+<table class="table" border="0" width="100%">
+  <tr align="center">
+    <td> <img width="48"g src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" /> </td>
+    <td> <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" /> </td>
+    <td> <img width="48" src="https://cdn.worldvectorlogo.com/logos/metabase.svg" /> </td>
+    <td> <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/512px-DBeaver_logo.svg.png"/> </td>
+ </tr>
+  <tr align="center">
+    <td>PostgreSQL</td>
+    <td>MongoDB</td>
+    <td>Metabase</td>
+    <td>DBeaver</td>
+  </tr>
+</table>
 
 ## Автотесты
-<div>
-  <img src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" title="Cypress" alt="Cypress" width="40" height="40"/>&nbsp
-  <img src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp
-  <img src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" title="pytest" alt="pytest" width="40" height="40"/>&nbsp
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GithubActions-Dark.svg" title="Actions" alt="Actions" width="40" height="40"/>&nbsp
-  <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sublime-Dark.svg" title="Sublime" alt="Sublime" width="40" height="40"/>&nbsp
-
-</div>
-
+<table class="table" border="0" width="100%">
+  <tr align="center">
+   <td> <img width="48" src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" /> </td>
+   <td> <img width="48" src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" /> </td>
+   <td> <img width="48" src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" /> </td>
+   <td> <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GithubActions-Dark.svg" /> </td>
+   <td> <img width="48" src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" /> </td>
+   <td> <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" /> </td>
+   <td> <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sublime-Dark.svg" /> </td>
+ </tr>
+  <tr align="center">
+    <td>PostgreSQL</td>
+    <td>MongoDB</td>
+    <td>Metabase</td>
+    <td>DBeaver</td>
+  </tr>
+</table>
 <!-- Выбор картинок ↑↑: https://github.com/tandpfun/skill-icons --> 
 
 <br>
