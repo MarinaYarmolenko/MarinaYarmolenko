@@ -28,9 +28,9 @@
   </tr>
   <tr align="center">
     <td>Postman</td>
-    <td>Rest</td>
     <td>Soap</td>
     <td>Kafka</td>
+    <td>rest</td>
     <td>Swagger</td>
     <td>Docker</td>
   </tr>
