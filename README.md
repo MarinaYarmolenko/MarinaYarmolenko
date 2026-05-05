@@ -5,6 +5,9 @@
 - 💡 Задача на будущее: стать тем специалистом, на котором держится качество продукта.</br>
 - 🤝 Ищу команду увлечённых профессионалов — вместе делать большие проекты интереснее.</br>
 
+### Открыта к сотрудничеству  
+- <img height="20" width="20" src="https://github.com/belyakovko/belyakovko/blob/259dfb7451faa9d0b906502b658f67e51f61f9dd/assets/icon_mail.png"/> [belyakovko@mail.ru](mailto:yarmolenko.ma1@gmail.com)
+- <img height="20" width="20" src="https://github.com/belyakovko/belyakovko/blob/259dfb7451faa9d0b906502b658f67e51f61f9dd/assets/icon_telegram.png"/> [@KirBelyakov](https://t.me/yarmolenkoma)
 ## 📊 Статистика
 
 ![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=MarinaYarmolenko)
@@ -134,9 +137,5 @@
 ## 🎒 Образование
 [<img src="/jun.png" width="280px" hspace="10px" alt="Диплом»">](https://github.com/MarinaYarmolenko/MarinaYarmolenko/blob/main/certificate_junior.png)
 
-
-## 🤝 Контакт
-[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:yarmolenko.ma1@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/yarmolenkoma)
 
 <!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
