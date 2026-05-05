@@ -6,8 +6,8 @@
 - 🤝 Ищу команду увлечённых профессионалов — вместе делать большие проекты интереснее.</br>
 
 ### Открыта к сотрудничеству  
-- <img height="20" width="20" src="https://github.com/belyakovko/belyakovko/blob/259dfb7451faa9d0b906502b658f67e51f61f9dd/assets/icon_mail.png"/> [belyakovko@mail.ru](mailto:yarmolenko.ma1@gmail.com)
-- <img height="20" width="20" src="https://github.com/belyakovko/belyakovko/blob/259dfb7451faa9d0b906502b658f67e51f61f9dd/assets/icon_telegram.png"/> [@KirBelyakov](https://t.me/yarmolenkoma)
+- <img height="20" width="20" src="https://github.com/belyakovko/belyakovko/blob/259dfb7451faa9d0b906502b658f67e51f61f9dd/assets/icon_mail.png"/> [yarmolenko.ma1@gmail.com](mailto:yarmolenko.ma1@gmail.com)
+- <img height="20" width="20" src="https://github.com/belyakovko/belyakovko/blob/259dfb7451faa9d0b906502b658f67e51f61f9dd/assets/icon_telegram.png"/> [@yarmolenkoma](https://t.me/yarmolenkoma)
 ## 📊 Статистика
 
 ![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=MarinaYarmolenko)
