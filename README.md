@@ -130,7 +130,6 @@
     <td>Pyton</td>
   </tr>
 </table>
-<!-- Выбор картинок ↑↑: https://github.com/tandpfun/skill-icons --> 
 
 <br>
 
